@@ -105,6 +105,10 @@ a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -2515,6 +2519,8 @@ input[type="search"] {
   font-weight: 400;
   font-size: 16px;
   color: var(--footer-color);
+  
+  cursor: pointer;
 }
 
 .application-form__agreement-standard-checkbox {
