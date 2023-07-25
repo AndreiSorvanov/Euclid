@@ -1,4 +1,4 @@
-# Landing
+# Euclid
 
 Adaptive, cross-browser, semantic layout:
-https://andreisorvanov.github.io/Landing/
+https://andreisorvanov.github.io/Euclid/
